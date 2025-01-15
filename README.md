@@ -1,2 +1,2 @@
 # dataScienceCapstone
- Coursera data science capstone repository
+ Coursera data science capstone repository - IBM Data Sciece Specialization
